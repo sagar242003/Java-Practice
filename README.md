@@ -1,2 +1,2 @@
 # Java-Practice
-Here the practice problem of java programming language is present on different topics.
+Here the practice problem codes java programming language is based on on different topics.
